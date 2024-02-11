@@ -171,4 +171,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+    background: #1f2937;
+    padding: 32px 0;
+    color: #e5e7eb;
 }
