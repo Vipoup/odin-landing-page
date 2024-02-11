@@ -106,3 +106,9 @@ img {
     align-items: center;
     flex: 1;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
