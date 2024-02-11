@@ -69,3 +69,27 @@ img {
 .info {
     max-width: 15%;
 }
+
+.quotation-container {
+    display: flex;
+    justify-self: center;
+    align-self: center;
+}
+
+.quotation {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 17%;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
+}
+
+.attribution {
+    align-self: flex-end;
+}
