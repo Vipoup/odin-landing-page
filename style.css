@@ -117,6 +117,8 @@ h2 {
     display: flex;
     justify-self: center;
     align-self: center;
+    background: #e5e7eb;
+    padding: 32px 0;
 }
 
 .quotation {
@@ -131,10 +133,15 @@ h2 {
 .quote {
     display: flex;
     flex-direction: column;
+    text-align: left;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
 }
 
 .attribution {
     align-self: flex-end;
+    font-weight: 900;
 }
 
 .action-call {
