@@ -93,3 +93,16 @@ img {
 .attribution {
     align-self: flex-end;
 }
+
+.action-call {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex: 1;
+}
